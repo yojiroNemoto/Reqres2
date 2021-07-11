@@ -1,0 +1,13 @@
+.App {
+  text-align:  center;
+}
+
+.profile {
+  display: inline-block;
+  margin: 50px;
+  text-align: center;
+}
+
+ul{
+  list-style: none;
+}
